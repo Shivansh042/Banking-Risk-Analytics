@@ -69,4 +69,15 @@ Some of the main questions addressed:
 - **Exploratory Data Analysis (EDA)** → Identifying patterns, outliers, and risk factors  
 - **DAX (Data Analysis Expressions)** → Custom measures and KPIs in Power BI  
 - **Power BI** → Interactive dashboards and reports  
-- **MS Excel** → Validation, quick analysis, preprocessing  
+- **MS Excel** → Validation, quick analysis, preprocessing
+
+---
+
+👨‍💻 Author
+
+Shivansh Srivastava
+
+📧 Email: shivanshsrivastava42@gmail.com
+🔗 LinkedIn(https://www.linkedin.com/in/shivansh-srivastava-118b1a1a4)
+🔗 Portfolio(https://datascienceportfol.io/shivanshsrivastava)
+  
