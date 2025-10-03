@@ -9,6 +9,7 @@ This project demonstrates **end-to-end risk analytics** — from database queryi
 # 🔗 Interactive Dashboard
 You can explore the interactive Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZGIxYzJjOWYtNTM3Ni00ODgwLTk4ZDItZTQ2MzM2NTc4MjYxIiwidCI6ImRhZmY5YmFjLWRlOTQtNDYzYy1iMzFhLWI0NTFiMWFlMzMwOCJ9&pageName=cec252c6edbfe028566f)
 
+---
 
 # 📊 Project Overview  
 
@@ -78,6 +79,6 @@ Some of the main questions addressed:
 Shivansh Srivastava
 
 📧 Email: shivanshsrivastava42@gmail.com
-🔗 LinkedIn(https://www.linkedin.com/in/shivansh-srivastava-118b1a1a4)
-🔗 Portfolio(https://datascienceportfol.io/shivanshsrivastava)
+🔗 [LinkedIn](https://www.linkedin.com/in/shivansh-srivastava-118b1a1a4)
+🔗 [Portfolio](https://datascienceportfol.io/shivanshsrivastava)
   
